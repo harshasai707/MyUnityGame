@@ -1,0 +1,10 @@
+echo "Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+.vs/
+*.csproj
+*.sln" > .gitignore
+git add .gitignore
+git commit -m "Added .gitignore"
